@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style-type: none;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+body {
+    background-color: antiquewhite;
+}
+ul {
+    padding-top: 30px;
+}
+a:hover {
+    color: red;
+}

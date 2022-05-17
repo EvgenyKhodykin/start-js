@@ -1,0 +1,17 @@
+#trafficLight {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+  }
+  a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+  }
+  body {
+    background-color: antiquewhite;
+  }
+  a:hover {
+    font-size: 25px;
+  }
